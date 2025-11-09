@@ -20,7 +20,7 @@ The model uses **Linear Regression** trained on **simulated housing data** to gi
 ## 🧠 Tech Used
 - **Python**  
 - **Flask**  
-- **Pandas & NumPy**  
+- **NumPy**  
 - **Scikit learn (Linear Regression)**  
 - **HTML + CSS (for front-end design)**
 
