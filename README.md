@@ -3,17 +3,17 @@
 This project is a **Simple House Price Predictor** built using **Flask** and **Machine Learning**.  
 It estimates house prices in **Ethiopian Birr (ETB)** based on two main features:  
 - Number of bedrooms  
-- Total area (in square feet)
+- Total area
 
-The model uses **Linear Regression** trained on **simulated housing data** to give users an approximate price estimate through a clean, interactive web interface.
+The model uses **Linear Regression** trained on **simulated housing data** to give users an approximate price estimate through a web interface.
 
 ---
 
 ## 💡 How It Works
-- The app generates sample house data (with bedrooms, area, and prices).  
-- It trains a **Linear Regression** model from `scikit-learn`.  
-- When you enter the number of bedrooms and area, it predicts the estimated price instantly.  
-- Everything runs directly in a **Flask web app** with a modern, minimal UI.
+- The app generates sample house data (with bedrooms, area and prices).  
+- It trains a **Linear Regression** model from `scikit learn`.  
+- When you enter the number of bedrooms and area it predicts the estimated price instantly.  
+- Everything runs directly in a **Flask web app** with a minimal UI.
 
 ---
 
@@ -21,7 +21,7 @@ The model uses **Linear Regression** trained on **simulated housing data** to gi
 - **Python**  
 - **Flask**  
 - **Pandas & NumPy**  
-- **Scikit-learn (Linear Regression)**  
+- **Scikit learn (Linear Regression)**  
 - **HTML + CSS (for front-end design)**
 
 ---
@@ -49,5 +49,4 @@ Here’s what it does:
 ---
 
 ## 🙌 Acknowledgment
-Developed by **Hisnul Mohammed**  
-as part of the **DevTech Internship Program** 💻
+**DevTech Internship Program** 💻
