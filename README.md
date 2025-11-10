@@ -22,7 +22,7 @@ The model uses **Linear Regression** trained on **simulated housing data** to gi
 - **Flask**  
 - **NumPy**  
 - **Scikit learn (Linear Regression)**  
-- **HTML + CSS (for front-end design)**
+- **HTML + CSS (for front end design)**
 
 ---
 
@@ -33,7 +33,7 @@ This project was created as part of my **DevTech Internship Program** to explore
 
 ## 🌍 Preview
 Here’s what it does:
-1. You enter the number of bedrooms and the total area (in sq ft).  
+1. You enter the **number of bedrooms** and the **total area** (in sq ft).  
 2. Click **Calculate Estimated Price**.  
 3. It displays the predicted price in **ETB** instantly!
 
